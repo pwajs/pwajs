@@ -1,0 +1,22 @@
+{
+  "name": "pwajs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwajs/pwajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwajs/pwajs/issues"
+  },
+  "homepage": "https://github.com/pwajs/pwajs#readme"
+}
